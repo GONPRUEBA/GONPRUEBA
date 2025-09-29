@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1400" height="300" src=>
+  <img width="1400" height="300" src="https://github.com/GONPRUEBA/GONPRUEBA/blob/main/LOGO.jpg">
 </p>
 <p align="center"> 
   
